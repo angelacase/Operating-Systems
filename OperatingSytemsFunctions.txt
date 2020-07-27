@@ -1,0 +1,3 @@
+One operating system function is to manage the CPU or central processing unit. 
+This manages the hardware and software and programs that demand memory.
+Acting as a interface between user and hardware.
