@@ -5,3 +5,7 @@ Another operating system function is the interface itself.
 There are two kinds of interfaces.
 Graphic user interface or GUI that uses graphics and the comman line interface or CLI that uses commands typed on a line.
 These tell the os to do things.
+The os also provides an enviroment for software to function.
+CLI is usually used by technical support people who troubleshoot for issues.
+CLI allows for more control for users for instructional purposes.
+Some users feel it is too cumbersome because exact langauage must be used so there is room for much errors.
