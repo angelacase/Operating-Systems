@@ -4,3 +4,4 @@ Acting as a interface between user and hardware.
 Another operating system function is the interface itself.
 There are two kinds of interfaces.
 Graphic user interface or GUI that uses graphics and the comman line interface or CLI that uses commands typed on a line.
+These tell the os to do things.
